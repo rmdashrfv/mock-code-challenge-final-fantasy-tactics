@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+
+.your-party {
+  background-color: #ccc;
+  min-height: 250px;
+  width: 100%;
+  padding: 2%;
+}
+
+.all-units {
+  background-color: #fff;
+  min-height: 250px;
+  width: 100%;
+  padding: 2%;
+  border: 1px solid brown;
+}
+
+.unit-card {
+  border: 1px solid black;
+  padding: 1% 2%;
+}
+
+.delete-btn {
+  background-color: red;
+  color: white;
+  border: 1px solid firebrick;
+}

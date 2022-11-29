@@ -1,0 +1,10 @@
+{
+  "units": [
+    {"name": "Ramza", "id": 1, "job": "Squire", "gender": "M", "image": "http://www.videogamesprites.net/FinalFantasyTactics/Jobs/Squire/Squire1M-SW.gif"},
+    {"name": "Algus", "id": 2, "job": "Knight", "gender": "M", "image": "https://www.videogamesprites.net/FinalFantasyTactics/Jobs/Knight/Knight1M-SW.gif"},
+    {"name": "Wiegraf", "id": 3, "job": "Samurai", "gender": "M", "image": "https://www.videogamesprites.net/FinalFantasyTactics/Jobs/Samurai/Samurai1M-SW.gif"},
+    {"name": "Delita", "id": 4, "job": "Archer", "gender": "M", "image": "https://www.videogamesprites.net/FinalFantasyTactics/Jobs/Archer/Archer1M-SW.gif"},
+    {"name": "Balthier", "id": 5, "job": "Thief", "gender": "M", "image": "https://www.videogamesprites.net/FinalFantasyTactics/Jobs/Thief/Thief1M-SW.gif"},
+    {"name": "Agrias", "id": 6, "job": "Geomancer", "gender": "F", "image": "https://www.videogamesprites.net/FinalFantasyTactics/Jobs/Geomancer/Geomancer1F-SW.gif"}
+  ]
+}
