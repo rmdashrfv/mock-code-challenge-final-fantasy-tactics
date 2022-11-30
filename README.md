@@ -12,3 +12,11 @@ As a user, I should be able to:
 - Add an individual unit to my party by clicking on it. The selected party should render in the YourParty component. The unit can be enlisted only once. The unit does not disappear from the AllUnits.
 - Release a unit from your party by clicking on it. The unit disappears from the YourParty component.
 - Discharge a unit from life forever -- effectively killing them (it's the code challenge, I'm sorry), by clicking the red button marked "x", which would delete the unit both from the backend and from the YourParty on the frontend.
+
+## Common Mistakes
+1. Forgetting `await` keyword
+2. Forgetting to call `request` within your useEffect
+3. Inconsistent names between Props and their values. e.g. `allUnits={units}`
+4. Forgetting to use a prop in the compoent you just passed it to
+5. Forgetting to start your API server
+6. Not setting sensible initial values to state variables. i.e. if something will eventually be an array, its initial value should be an empty array
