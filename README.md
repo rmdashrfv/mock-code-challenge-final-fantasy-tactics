@@ -20,3 +20,5 @@ As a user, I should be able to:
 4. Forgetting to use a prop in the compoent you just passed it to
 5. Forgetting to start your API server
 6. Not setting sensible initial values to state variables. i.e. if something will eventually be an array, its initial value should be an empty array
+7. Forgetting to return something within a `map()`
+8. Forgetting to import a Component in another file
