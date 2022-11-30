@@ -1,11 +1,11 @@
 import UnitPortrait from "./UnitPortrait";
 import UnitBio from "./UnitBio";
 
-const UnitCard = () => {
+const UnitCard = ({ unit }) => {
   return(
     <div className="unit-card">
-      <UnitPortrait />
-      <UnitBio />
+      <UnitPortrait unit={unit} />
+      <UnitBio unit={unit} />
     </div>
   )
 }
